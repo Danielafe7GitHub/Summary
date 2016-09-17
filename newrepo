@@ -1,3 +1,3 @@
 Emulando que se crean nuevos archivos desde otras PC, entonces el repositorio
-local no estaria actualizado; usaremos fetc para actualizarlo
-si existe problema pull
+local no estaria actualizado; usaremos pull
+desde antes para poder subir arcivos sin problema
